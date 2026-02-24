@@ -1,0 +1,16 @@
+node_modules*.zip
+ArogyaAI-Expo
+.DS_Store
+.env
+.env.local
+.env.*.local
+build/
+dist/
+coverage/
+.vscode/
+.idea/
+*.swp
+*.swo
+temp-audio/
+uploads/
+node_modules
